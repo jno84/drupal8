@@ -1,0 +1,13 @@
+{
+    "name": "drupal/hello_world",
+    "description": "My first D8 module",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Jean-Noel Benoit",
+            "email": "jeannoel.benoit@xprimegroupe.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,6 @@
+name: Hello World Module
+description: My first D8 module :D
+package: Custom
+type: module
+version: 1.0
+core: 8.x

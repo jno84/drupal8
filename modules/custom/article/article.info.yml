@@ -1,0 +1,14 @@
+name: Article
+description: 'Provide Article type de contenu and related configuration. Use <em>articles</em> for time-sensitive content like news, press releases or blog posts.'
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - datetime
+  - image
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+features: true
